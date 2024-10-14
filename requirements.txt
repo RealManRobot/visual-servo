@@ -1,0 +1,4 @@
+opencv-python~=4.10.0.84
+numpy~=1.24.3
+ultralytics~=8.2.54
+setuptools~=69.5.1

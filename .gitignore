@@ -1,0 +1,10 @@
+/.idea
+*.pyc
+*.pt
+*.pth
+*.cache
+tests/camera
+tests/CD_pth
+tests/ultralytics
+tests/yolo-rgb
+tests/test_with_yolorgbd.py
